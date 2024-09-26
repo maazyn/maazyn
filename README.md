@@ -17,7 +17,6 @@
 </p>
 
 
-<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazyn&layout=compact&theme=dark" alt="Top Languages" />
 
@@ -37,6 +36,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<br>
 <br>
 
 <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maazyn&theme=dark" alt="Github Summary" width="300" style="border: 2px solid #ffffff; border-radius: 5px;"/>
