@@ -53,7 +53,7 @@
 
 <div align="center">
 
-  ### Currently Learning:
+  ### CURRENTLY LEARNING:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40" />
 
