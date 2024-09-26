@@ -20,7 +20,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazyn&layout=compact&theme=dark" alt="Top Languages" />
 
-<h3>TECH:</h3>
+<h3>ALL THE TECH:</h3>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
