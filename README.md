@@ -45,8 +45,8 @@
 <h3>LATEST PROJECTS:</h3>
 
   - Circa: [**REPO**](https://github.com/maazyn/circa)   •   [**LIVE**](https://circa.onrender.com/)
-  - Music Camp: [**REPO**](https://github.com/iigonzoii/music_camp) • [**LIVE**](music-camp.onrender.com/)
-  - Rent-A-Pad: [**REPO**](https://github.com/maazyn/Rent-a-pad) • [**LIVE**](rent-a-pad.onrender.com/)
+  - Music Camp: [**REPO**](https://github.com/iigonzoii/music_camp) • [**LIVE**](https://music-camp-t63l.onrender.com/)
+  - Rent-A-Pad: [**REPO**](https://github.com/maazyn/Rent-a-pad) • [**LIVE**](https://rent-a-pad.onrender.com/)
 
 
 <br>
