@@ -55,6 +55,7 @@
 
   ### CURRENTLY LEARNING:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" alt="React Native CSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40" />
 
   ![Music Production](https://img.shields.io/badge/Music%20Production-%F0%9F%8E%B5-blue?style=for-the-badge)
