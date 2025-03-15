@@ -35,6 +35,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40" />
 
 <br>
 <br>
@@ -44,7 +45,7 @@
 
 <h3>LATEST PROJECTS:</h3>
 
-  - Circa: [**REPO**](https://github.com/maazyn/circa)   •   [**LIVE**](https://circa-graded.onrender.com/)
+  - Circa: [**REPO**](https://github.com/maazyn/circa)   •   [**LIVE**]([https://circa-graded.onrender.com/](https://circa.onrender.com/))
   - Music Camp: [**REPO**](https://github.com/iigonzoii/music_camp) • [**LIVE**](https://music-camp-t63l.onrender.com/)
   - Rent-A-Pad: [**REPO**](https://github.com/maazyn/Rent-a-pad) • [**LIVE**](https://rent-a-pad.onrender.com/)
 
@@ -54,13 +55,11 @@
 <div align="center">
 
   ### CURRENTLY LEARNING:
-  <img src="https://raw.githubusercontent.com/dotnet/vscode-csharp/main/images/csharpIcon.png" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
   
   ![Music Production](https://img.shields.io/badge/Music%20Production-%F0%9F%8E%B5-blue?style=for-the-badge)
 
   ### WANT TO LEARN:
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" alt="React Native CSS" width="40" height="40" />
 </div>
 
