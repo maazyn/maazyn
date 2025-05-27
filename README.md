@@ -36,6 +36,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
 
 <br>
 <br>
@@ -55,7 +56,6 @@
 <div align="center">
 
   ### CURRENTLY LEARNING:
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40" />
   
   ![Music Production](https://img.shields.io/badge/Music%20Production-%F0%9F%8E%B5-blue?style=for-the-badge)
 
